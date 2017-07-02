@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetings on MySQL &amp; Friends Belgian Users</title>
+    <link>http://mysqlusers.be/meetings/</link>
+    <description>Recent content in Meetings on MySQL &amp; Friends Belgian Users</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mysqlusers.be/meetings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Percona Live Europe in Dublin</title>
+      <link>http://mysqlusers.be/meetings/perconalive/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mysqlusers.be/meetings/perconalive/</guid>
+      <description>The MySQL Belgian Users will gather at Percona Live in Dublin on September 25.</description>
+    </item>
+    
+  </channel>
+</rss>

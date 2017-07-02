@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MySQL &amp; Friends Belgian Users</title>
+    <link>http://mysqlusers.be/</link>
+    <description>Recent content on MySQL &amp; Friends Belgian Users</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mysqlusers.be/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Percona Live Europe in Dublin</title>
+      <link>http://mysqlusers.be/meetings/perconalive/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mysqlusers.be/meetings/perconalive/</guid>
+      <description>The MySQL Belgian Users will gather at Percona Live in Dublin on September 25.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://mysqlusers.be/home/</link>
+      <pubDate>Sun, 02 Jul 2017 16:50:12 +0200</pubDate>
+      
+      <guid>http://mysqlusers.be/home/</guid>
+      <description>Welcome to the MySQL and Friends Belgian Users Group!
+We are a group of passionate MySQL, MariaDB, Percona server, &amp;hellip; users and we meet frequently around Belgium.
+Our meetings are free and we want to highlight the best topics in the database world: performance, innovation, replication&amp;hellip;
+Join us, and follow us to keep in touch!</description>
+    </item>
+    
+  </channel>
+</rss>
